@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx-attack_01
+  rotate: false
+  xy: 2, 140
+  size: 262, 124
+  orig: 262, 124
+  offset: 0, 0
+  index: -1
+fx-attack_02
+  rotate: false
+  xy: 2, 14
+  size: 262, 124
+  orig: 262, 124
+  offset: 0, 0
+  index: -1
+fx-attack_03
+  rotate: true
+  xy: 266, 128
+  size: 262, 124
+  orig: 262, 124
+  offset: 0, 0
+  index: -1
+fx-attack_04
+  rotate: false
+  xy: 2, 266
+  size: 262, 124
+  orig: 262, 124
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Unit
+  - Building
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - SpawnCreep
+  - Character
+  - Effect
+  - GameUI
+  - PowerUp
+  - Building
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4014072393
+    locked: 0
+  - name: VFXBackground
+    uniqueID: 1778364779
+    locked: 0
+  - name: Character
+    uniqueID: 1318682081
+    locked: 0
+  - name: VFX
+    uniqueID: 293672511
+    locked: 0
+  - name: BattleText
+    uniqueID: 3999154061
+    locked: 0
+  - name: UI
+    uniqueID: 3856183155
+    locked: 0
+  - name: Frontground
+    uniqueID: 380658629
+    locked: 0

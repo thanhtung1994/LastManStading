@@ -1,0 +1,251 @@
+
+ashe.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Halloween hero vhelsing waterExplosion_11
+  rotate: false
+  xy: 2, 722
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+Halloween hero vhelsing waterExplosion_12
+  rotate: false
+  xy: 2, 592
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+Halloween hero vhelsing waterExplosion_13
+  rotate: false
+  xy: 2, 462
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+Halloween hero vhelsing waterExplosion_14
+  rotate: false
+  xy: 2, 332
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+Halloween hero vhelsing waterExplosion_15
+  rotate: false
+  xy: 2, 202
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+Halloween hero vhelsing waterExplosion_16
+  rotate: false
+  xy: 2, 72
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+Halloween hero vhelsing waterExplosion_17
+  rotate: true
+  xy: 211, 812
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+Halloween hero vhelsing waterExplosion_18
+  rotate: true
+  xy: 420, 898
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+Halloween hero vhelsing waterExplosion_19
+  rotate: true
+  xy: 550, 898
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+Halloween hero vhelsing waterExplosion_20
+  rotate: true
+  xy: 680, 898
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+Halloween hero vhelsing waterExplosion_21
+  rotate: true
+  xy: 810, 898
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+Halloween hero vhelsing waterExplosion_22
+  rotate: false
+  xy: 128, 682
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+Halloween hero vhelsing waterExplosion_23
+  rotate: false
+  xy: 128, 552
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+Halloween hero vhelsing waterExplosion_24
+  rotate: false
+  xy: 128, 422
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+Halloween hero vhelsing waterExplosion_25
+  rotate: false
+  xy: 128, 292
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+Halloween hero vhelsing waterExplosion_26
+  rotate: false
+  xy: 128, 162
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+Halloween hero vhelsing waterExplosion_27
+  rotate: false
+  xy: 254, 682
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+Halloween hero vhelsing waterExplosion_28
+  rotate: false
+  xy: 254, 552
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+Halloween hero vhelsing waterExplosion_29
+  rotate: false
+  xy: 940, 958
+  size: 80, 64
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+aochoang
+  rotate: false
+  xy: 128, 118
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+arrow_01
+  rotate: false
+  xy: 2, 938
+  size: 207, 84
+  orig: 207, 84
+  offset: 0, 0
+  index: -1
+arrow_02
+  rotate: false
+  xy: 2, 852
+  size: 207, 84
+  orig: 207, 84
+  offset: 0, 0
+  index: -1
+arrow_03
+  rotate: false
+  xy: 211, 938
+  size: 207, 84
+  orig: 207, 84
+  offset: 0, 0
+  index: -1
+bap_tay_trai
+  rotate: false
+  xy: 940, 933
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+baptay_phai
+  rotate: false
+  xy: 181, 134
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+cangtay_phai
+  rotate: false
+  xy: 254, 524
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+chan_trai
+  rotate: false
+  xy: 128, 89
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+chanphai
+  rotate: true
+  xy: 87, 8
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+cungten
+  rotate: false
+  xy: 2, 2
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 341, 875
+  size: 77, 61
+  orig: 77, 61
+  offset: 0, 0
+  index: -1
+muiten_thuong
+  rotate: false
+  xy: 420, 880
+  size: 76, 16
+  orig: 76, 16
+  offset: 0, 0
+  index: -1
+tay_phai
+  rotate: false
+  xy: 169, 831
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+tay_trai
+  rotate: false
+  xy: 341, 852
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 87, 29
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+vay
+  rotate: false
+  xy: 128, 824
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1

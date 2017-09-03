@@ -1,0 +1,160 @@
+
+Priest.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L
+  rotate: true
+  xy: 256, 71
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+R
+  rotate: false
+  xy: 383, 191
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+arm L
+  rotate: false
+  xy: 316, 119
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+arm R
+  rotate: false
+  xy: 77, 40
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+body up
+  rotate: false
+  xy: 210, 349
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+cage
+  rotate: false
+  xy: 383, 222
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+fx-spell1_01
+  rotate: false
+  xy: 2, 197
+  size: 125, 116
+  orig: 125, 116
+  offset: 0, 0
+  index: -1
+fx-spell1_02
+  rotate: false
+  xy: 210, 393
+  size: 125, 116
+  orig: 125, 116
+  offset: 0, 0
+  index: -1
+fx-spell1_03
+  rotate: false
+  xy: 2, 79
+  size: 125, 116
+  orig: 125, 116
+  offset: 0, 0
+  index: -1
+fx-spell1_04
+  rotate: false
+  xy: 337, 393
+  size: 125, 116
+  orig: 125, 116
+  offset: 0, 0
+  index: -1
+fx-spell1_05
+  rotate: true
+  xy: 129, 188
+  size: 125, 116
+  orig: 125, 116
+  offset: 0, 0
+  index: -1
+fx-spell1_06
+  rotate: false
+  xy: 129, 70
+  size: 125, 116
+  orig: 125, 116
+  offset: 0, 0
+  index: -1
+fx-spell1_07
+  rotate: false
+  xy: 247, 275
+  size: 125, 116
+  orig: 125, 116
+  offset: 0, 0
+  index: -1
+fx-spell1_08
+  rotate: false
+  xy: 2, 315
+  size: 206, 194
+  orig: 206, 194
+  offset: 0, 0
+  index: -1
+fx-spell1_09
+  rotate: false
+  xy: 374, 275
+  size: 125, 116
+  orig: 125, 116
+  offset: 0, 0
+  index: -1
+fx-spell1_10
+  rotate: false
+  xy: 256, 157
+  size: 125, 116
+  orig: 125, 116
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 464, 458
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+hand L
+  rotate: false
+  xy: 464, 437
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+handr
+  rotate: false
+  xy: 439, 252
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 256, 92
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 77, 17
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+stufff
+  rotate: false
+  xy: 2, 2
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1

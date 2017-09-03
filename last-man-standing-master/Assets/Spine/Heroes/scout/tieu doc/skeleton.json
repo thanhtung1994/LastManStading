@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"GGPbBCm0x05LjoUIQ2AiJSICl08","spine":"3.5.51","width":26.06,"height":6.27,"images":"./images/"},"bones":[{"name":"root"},{"name":"bone","parent":"root"}],"slots":[{"name":"fx_phitieu","bone":"bone","attachment":"phi-tieu"}],"skins":{"default":{"fx_phitieu":{"phi-tieu":{"rotation":0.6,"width":26,"height":6}}}},"animations":{"animation":{}}}

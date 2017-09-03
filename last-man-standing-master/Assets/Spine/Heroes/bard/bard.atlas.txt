@@ -1,0 +1,384 @@
+
+bard.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 208, 210
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 104, 30
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 255, 255
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 284, 316
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 287, 272
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 167, 169
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 211, 178
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+bantayphai
+  rotate: false
+  xy: 255, 174
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+bantaytrai
+  rotate: false
+  xy: 233, 161
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+baptayphai
+  rotate: false
+  xy: 88, 4
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+baptaytrai
+  rotate: false
+  xy: 211, 161
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+chan
+  rotate: false
+  xy: 408, 354
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+dan
+  rotate: true
+  xy: 478, 436
+  size: 74, 32
+  orig: 74, 32
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 167, 201
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+tayphai
+  rotate: false
+  xy: 254, 160
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: false
+  xy: 105, 10
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 328, 315
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+toc
+  rotate: true
+  xy: 104, 74
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+tocgiua1
+  rotate: false
+  xy: 255, 299
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+tocgiua2
+  rotate: true
+  xy: 319, 164
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+tocgiua3
+  rotate: false
+  xy: 459, 356
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+tocphai1
+  rotate: false
+  xy: 104, 179
+  size: 30, 79
+  orig: 30, 79
+  offset: 0, 0
+  index: -1
+tocphai2
+  rotate: true
+  xy: 2, 4
+  size: 20, 55
+  orig: 20, 55
+  offset: 0, 0
+  index: -1
+toctrai1
+  rotate: true
+  xy: 274, 348
+  size: 45, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1
+toctrai2
+  rotate: false
+  xy: 104, 119
+  size: 27, 58
+  orig: 27, 58
+  offset: 0, 0
+  index: -1
+vayphai1
+  rotate: false
+  xy: 136, 187
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+vayphai2
+  rotate: true
+  xy: 459, 333
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+vaytrai1
+  rotate: true
+  xy: 351, 349
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+vaytrai2
+  rotate: false
+  xy: 59, 4
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+vfx_bard_attack_1_1
+  rotate: false
+  xy: 360, 317
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+vfx_bard_attack_1_2
+  rotate: false
+  xy: 319, 283
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+vfx_bard_attack_1_3
+  rotate: false
+  xy: 360, 285
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+vfx_bard_attack_1_4
+  rotate: false
+  xy: 319, 251
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+vfx_bard_attack_1_5
+  rotate: false
+  xy: 360, 253
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+vfx_bard_attack_1_6
+  rotate: true
+  xy: 287, 231
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+vfx_bard_spell_1_1
+  rotate: false
+  xy: 274, 395
+  size: 100, 115
+  orig: 100, 115
+  offset: 0, 0
+  index: -1
+vfx_bard_spell_1_2
+  rotate: false
+  xy: 2, 143
+  size: 100, 115
+  orig: 100, 115
+  offset: 0, 0
+  index: -1
+vfx_bard_spell_1_3
+  rotate: false
+  xy: 376, 395
+  size: 100, 115
+  orig: 100, 115
+  offset: 0, 0
+  index: -1
+vfx_bard_spell_1_4
+  rotate: false
+  xy: 2, 26
+  size: 100, 115
+  orig: 100, 115
+  offset: 0, 0
+  index: -1
+vfx_bard_spell_1_5
+  rotate: true
+  xy: 138, 242
+  size: 100, 115
+  orig: 100, 115
+  offset: 0, 0
+  index: -1
+vfx_bard_spell_2_4
+  rotate: false
+  xy: 2, 428
+  size: 134, 82
+  orig: 134, 82
+  offset: 0, 0
+  index: -1
+vfx_bard_spell_2_5
+  rotate: false
+  xy: 2, 344
+  size: 134, 82
+  orig: 134, 82
+  offset: 0, 0
+  index: -1
+vfx_bard_spell_2_6
+  rotate: false
+  xy: 138, 428
+  size: 134, 82
+  orig: 134, 82
+  offset: 0, 0
+  index: -1
+vfx_bard_spell_2_7
+  rotate: false
+  xy: 2, 260
+  size: 134, 82
+  orig: 134, 82
+  offset: 0, 0
+  index: -1
+vfx_bard_spell_2_8
+  rotate: false
+  xy: 138, 344
+  size: 134, 82
+  orig: 134, 82
+  offset: 0, 0
+  index: -1
+vfx_spell_2_2_1
+  rotate: false
+  xy: 478, 372
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+vfx_spell_2_2_2
+  rotate: false
+  xy: 478, 340
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+vfx_spell_2_2_3
+  rotate: true
+  xy: 255, 221
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+vfx_spell_2_2_4
+  rotate: true
+  xy: 255, 187
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+vfx_spell_2_2_5
+  rotate: true
+  xy: 287, 197
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+vfx_spell_2_2_6
+  rotate: false
+  xy: 319, 219
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+vfx_spell_2_2_7
+  rotate: false
+  xy: 319, 187
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+vfx_spell_2_2_8
+  rotate: true
+  xy: 287, 163
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+vfx_spell_2_2_9
+  rotate: false
+  xy: 478, 404
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1

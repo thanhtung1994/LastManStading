@@ -1,0 +1,118 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx-spell2_01_01
+  rotate: false
+  xy: 2, 168
+  size: 178, 164
+  orig: 178, 164
+  offset: 0, 0
+  index: -1
+fx-spell2_02
+  rotate: false
+  xy: 2, 666
+  size: 178, 164
+  orig: 178, 164
+  offset: 0, 0
+  index: -1
+fx-spell2_02_02
+  rotate: false
+  xy: 182, 334
+  size: 178, 164
+  orig: 178, 164
+  offset: 0, 0
+  index: -1
+fx-spell2_03
+  rotate: false
+  xy: 182, 832
+  size: 178, 164
+  orig: 178, 164
+  offset: 0, 0
+  index: -1
+fx-spell2_03_03
+  rotate: false
+  xy: 362, 500
+  size: 178, 164
+  orig: 178, 164
+  offset: 0, 0
+  index: -1
+fx-spell2_04
+  rotate: false
+  xy: 2, 500
+  size: 178, 164
+  orig: 178, 164
+  offset: 0, 0
+  index: -1
+fx-spell2_04_04
+  rotate: false
+  xy: 542, 666
+  size: 178, 164
+  orig: 178, 164
+  offset: 0, 0
+  index: -1
+fx-spell2_05
+  rotate: false
+  xy: 182, 666
+  size: 178, 164
+  orig: 178, 164
+  offset: 0, 0
+  index: -1
+fx-spell2_05_05
+  rotate: false
+  xy: 2, 832
+  size: 178, 164
+  orig: 178, 164
+  offset: 0, 0
+  index: -1
+fx-spell2_06
+  rotate: false
+  xy: 362, 832
+  size: 178, 164
+  orig: 178, 164
+  offset: 0, 0
+  index: -1
+fx-spell2_07
+  rotate: false
+  xy: 2, 334
+  size: 178, 164
+  orig: 178, 164
+  offset: 0, 0
+  index: -1
+fx-spell2_08
+  rotate: false
+  xy: 182, 500
+  size: 178, 164
+  orig: 178, 164
+  offset: 0, 0
+  index: -1
+fx-spell2_09
+  rotate: false
+  xy: 362, 666
+  size: 178, 164
+  orig: 178, 164
+  offset: 0, 0
+  index: -1
+fx-spell2_09_01
+  rotate: false
+  xy: 722, 832
+  size: 178, 164
+  orig: 178, 164
+  offset: 0, 0
+  index: -1
+fx-spell2_09_02
+  rotate: false
+  xy: 2, 2
+  size: 178, 164
+  orig: 178, 164
+  offset: 0, 0
+  index: -1
+fx-spell2_10
+  rotate: false
+  xy: 542, 832
+  size: 178, 164
+  orig: 178, 164
+  offset: 0, 0
+  index: -1

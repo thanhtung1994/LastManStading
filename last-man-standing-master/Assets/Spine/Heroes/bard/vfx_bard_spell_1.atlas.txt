@@ -1,0 +1,55 @@
+
+vfx_bard_spell_1.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: true
+  xy: 2, 2
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+vfx_bard_spell_1_1
+  rotate: false
+  xy: 2, 58
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+vfx_bard_spell_1_2
+  rotate: false
+  xy: 57, 90
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+vfx_bard_spell_1_3
+  rotate: false
+  xy: 2, 26
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+vfx_bard_spell_1_4
+  rotate: false
+  xy: 57, 58
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+vfx_bard_spell_1_5
+  rotate: false
+  xy: 57, 26
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+vfx_bard_spell_1_6
+  rotate: false
+  xy: 2, 90
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1

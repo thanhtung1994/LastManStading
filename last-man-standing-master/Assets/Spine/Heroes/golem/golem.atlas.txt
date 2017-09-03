@@ -1,0 +1,258 @@
+
+golem.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 569, 678
+  size: 192, 127
+  orig: 192, 127
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 758, 895
+  size: 192, 127
+  orig: 192, 127
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 70
+  size: 192, 127
+  orig: 192, 127
+  offset: 0, 0
+  index: -1
+L Leg
+  rotate: true
+  xy: 131, 74
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+R bap tay
+  rotate: false
+  xy: 2, 2
+  size: 39, 66
+  orig: 39, 66
+  offset: 0, 0
+  index: -1
+R canh tay
+  rotate: true
+  xy: 709, 535
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+R canh tay flip
+  rotate: false
+  xy: 43, 9
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+R leg
+  rotate: true
+  xy: 271, 136
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+Stage5 door stones_1
+  rotate: false
+  xy: 2, 872
+  size: 187, 150
+  orig: 187, 150
+  offset: 0, 0
+  index: -1
+Stage5 door stones_10
+  rotate: false
+  xy: 569, 872
+  size: 187, 150
+  orig: 187, 150
+  offset: 0, 0
+  index: -1
+Stage5 door stones_11
+  rotate: false
+  xy: 2, 264
+  size: 187, 150
+  orig: 187, 150
+  offset: 0, 0
+  index: -1
+Stage5 door stones_12
+  rotate: false
+  xy: 191, 416
+  size: 187, 150
+  orig: 187, 150
+  offset: 0, 0
+  index: -1
+Stage5 door stones_13
+  rotate: false
+  xy: 380, 568
+  size: 187, 150
+  orig: 187, 150
+  offset: 0, 0
+  index: -1
+Stage5 door stones_2
+  rotate: false
+  xy: 2, 720
+  size: 187, 150
+  orig: 187, 150
+  offset: 0, 0
+  index: -1
+Stage5 door stones_3
+  rotate: false
+  xy: 191, 872
+  size: 187, 150
+  orig: 187, 150
+  offset: 0, 0
+  index: -1
+Stage5 door stones_4
+  rotate: false
+  xy: 2, 568
+  size: 187, 150
+  orig: 187, 150
+  offset: 0, 0
+  index: -1
+Stage5 door stones_5
+  rotate: false
+  xy: 191, 720
+  size: 187, 150
+  orig: 187, 150
+  offset: 0, 0
+  index: -1
+Stage5 door stones_6
+  rotate: false
+  xy: 380, 872
+  size: 187, 150
+  orig: 187, 150
+  offset: 0, 0
+  index: -1
+Stage5 door stones_7
+  rotate: false
+  xy: 2, 416
+  size: 187, 150
+  orig: 187, 150
+  offset: 0, 0
+  index: -1
+Stage5 door stones_8
+  rotate: false
+  xy: 191, 568
+  size: 187, 150
+  orig: 187, 150
+  offset: 0, 0
+  index: -1
+Stage5 door stones_9
+  rotate: false
+  xy: 380, 720
+  size: 187, 150
+  orig: 187, 150
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 271, 166
+  size: 86, 119
+  orig: 86, 119
+  offset: 0, 0
+  index: -1
+dat nut
+  rotate: false
+  xy: 191, 287
+  size: 192, 127
+  orig: 192, 127
+  offset: 0, 0
+  index: -1
+explosion 1
+  rotate: false
+  xy: 380, 424
+  size: 138, 142
+  orig: 138, 142
+  offset: 0, 0
+  index: -1
+explosion 2
+  rotate: false
+  xy: 385, 280
+  size: 138, 142
+  orig: 138, 142
+  offset: 0, 0
+  index: -1
+explosion 3
+  rotate: false
+  xy: 569, 534
+  size: 138, 142
+  orig: 138, 142
+  offset: 0, 0
+  index: -1
+explosion 4
+  rotate: false
+  xy: 131, 120
+  size: 138, 142
+  orig: 138, 142
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 520, 508
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+hero mirage smoke_1
+  rotate: false
+  xy: 359, 182
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+hero mirage smoke_10
+  rotate: true
+  xy: 698, 684
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+hero mirage smoke_11
+  rotate: false
+  xy: 709, 586
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+hero mirage smoke_14
+  rotate: false
+  xy: 788, 797
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+hero mirage smoke_3
+  rotate: false
+  xy: 449, 182
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+hero mirage smoke_6
+  rotate: false
+  xy: 698, 774
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+left hand
+  rotate: false
+  xy: 952, 936
+  size: 53, 86
+  orig: 53, 86
+  offset: 0, 0
+  index: -1
+left hand flip
+  rotate: false
+  xy: 878, 807
+  size: 53, 86
+  orig: 53, 86
+  offset: 0, 0
+  index: -1

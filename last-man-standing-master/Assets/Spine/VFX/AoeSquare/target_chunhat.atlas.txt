@@ -1,0 +1,27 @@
+
+target_chunhat.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+target_chunhat_01
+  rotate: false
+  xy: 2, 154
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+target_chunhat_02
+  rotate: false
+  xy: 2, 102
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+target_chunhat_03
+  rotate: false
+  xy: 104, 154
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1

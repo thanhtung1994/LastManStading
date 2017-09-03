@@ -1,0 +1,69 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_nuke_1_no_01
+  rotate: false
+  xy: 2, 365
+  size: 125, 119
+  orig: 125, 119
+  offset: 0, 0
+  index: -1
+fx_nuke_1_no_02
+  rotate: false
+  xy: 2, 244
+  size: 125, 119
+  orig: 125, 119
+  offset: 0, 0
+  index: -1
+fx_nuke_1_no_03
+  rotate: false
+  xy: 129, 365
+  size: 125, 119
+  orig: 125, 119
+  offset: 0, 0
+  index: -1
+fx_nuke_1_no_04
+  rotate: false
+  xy: 2, 123
+  size: 125, 119
+  orig: 125, 119
+  offset: 0, 0
+  index: -1
+fx_nuke_1_no_05
+  rotate: false
+  xy: 129, 244
+  size: 125, 119
+  orig: 125, 119
+  offset: 0, 0
+  index: -1
+fx_nuke_1_no_06
+  rotate: false
+  xy: 256, 365
+  size: 125, 119
+  orig: 125, 119
+  offset: 0, 0
+  index: -1
+fx_nuke_1_no_07
+  rotate: false
+  xy: 2, 2
+  size: 125, 119
+  orig: 125, 119
+  offset: 0, 0
+  index: -1
+fx_nuke_1_no_08
+  rotate: false
+  xy: 129, 123
+  size: 125, 119
+  orig: 125, 119
+  offset: 0, 0
+  index: -1
+fx_nuke_1_no_09
+  rotate: false
+  xy: 256, 244
+  size: 125, 119
+  orig: 125, 119
+  offset: 0, 0
+  index: -1

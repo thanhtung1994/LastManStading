@@ -1,0 +1,76 @@
+
+Untitled-3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 406, 389
+  size: 121, 88
+  orig: 121, 88
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 277, 341
+  size: 115, 76
+  orig: 115, 76
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 407
+  size: 142, 103
+  orig: 142, 103
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 296
+  size: 132, 109
+  orig: 132, 109
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 188
+  size: 129, 106
+  orig: 129, 106
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 146, 407
+  size: 129, 103
+  orig: 129, 103
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 136, 300
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 89
+  size: 124, 97
+  orig: 124, 97
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 277, 419
+  size: 127, 91
+  orig: 127, 91
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 2
+  size: 122, 85
+  orig: 122, 85
+  offset: 0, 0
+  index: -1

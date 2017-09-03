@@ -1,0 +1,237 @@
+
+Berserker.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bantay_phai
+  rotate: false
+  xy: 240, 71
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+chan_phai
+  rotate: false
+  xy: 120, 33
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1
+chan_trai
+  rotate: false
+  xy: 887, 716
+  size: 78, 87
+  orig: 78, 87
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 792, 70
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+fx_attack2_01
+  rotate: false
+  xy: 132, 861
+  size: 253, 161
+  orig: 253, 161
+  offset: 0, 0
+  index: -1
+fx_attack2_02
+  rotate: false
+  xy: 387, 861
+  size: 253, 161
+  orig: 253, 161
+  offset: 0, 0
+  index: -1
+fx_attack2_03
+  rotate: false
+  xy: 642, 861
+  size: 253, 161
+  orig: 253, 161
+  offset: 0, 0
+  index: -1
+fx_attack2_04
+  rotate: false
+  xy: 132, 698
+  size: 253, 161
+  orig: 253, 161
+  offset: 0, 0
+  index: -1
+fx_attack2_05
+  rotate: false
+  xy: 387, 698
+  size: 253, 161
+  orig: 253, 161
+  offset: 0, 0
+  index: -1
+fx_attack_01
+  rotate: true
+  xy: 2, 546
+  size: 181, 127
+  orig: 181, 127
+  offset: 0, 0
+  index: -1
+fx_attack_02
+  rotate: true
+  xy: 2, 363
+  size: 181, 127
+  orig: 181, 127
+  offset: 0, 0
+  index: -1
+fx_attack_03
+  rotate: false
+  xy: 334, 237
+  size: 181, 127
+  orig: 181, 127
+  offset: 0, 0
+  index: -1
+fx_attack_04
+  rotate: false
+  xy: 334, 108
+  size: 181, 127
+  orig: 181, 127
+  offset: 0, 0
+  index: -1
+fx_attack_05
+  rotate: false
+  xy: 609, 234
+  size: 181, 127
+  orig: 181, 127
+  offset: 0, 0
+  index: -1
+fx_attack_06
+  rotate: false
+  xy: 609, 105
+  size: 181, 127
+  orig: 181, 127
+  offset: 0, 0
+  index: -1
+fx_mega_01
+  rotate: true
+  xy: 642, 695
+  size: 164, 243
+  orig: 164, 243
+  offset: 0, 0
+  index: -1
+fx_mega_02
+  rotate: true
+  xy: 131, 532
+  size: 164, 243
+  orig: 164, 243
+  offset: 0, 0
+  index: -1
+fx_mega_03
+  rotate: true
+  xy: 376, 532
+  size: 164, 243
+  orig: 164, 243
+  offset: 0, 0
+  index: -1
+fx_mega_04
+  rotate: true
+  xy: 621, 529
+  size: 164, 243
+  orig: 164, 243
+  offset: 0, 0
+  index: -1
+fx_mega_05
+  rotate: true
+  xy: 131, 366
+  size: 164, 243
+  orig: 164, 243
+  offset: 0, 0
+  index: -1
+fx_mega_06
+  rotate: true
+  xy: 376, 366
+  size: 164, 243
+  orig: 164, 243
+  offset: 0, 0
+  index: -1
+fx_mega_07
+  rotate: true
+  xy: 621, 363
+  size: 164, 243
+  orig: 164, 243
+  offset: 0, 0
+  index: -1
+fx_mega_08
+  rotate: false
+  xy: 2, 118
+  size: 164, 243
+  orig: 164, 243
+  offset: 0, 0
+  index: -1
+fx_mega_09
+  rotate: false
+  xy: 168, 121
+  size: 164, 243
+  orig: 164, 243
+  offset: 0, 0
+  index: -1
+giapap
+  rotate: false
+  xy: 184, 57
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+kiem
+  rotate: false
+  xy: 517, 157
+  size: 90, 207
+  orig: 90, 207
+  offset: 0, 0
+  index: -1
+kiem_03
+  rotate: false
+  xy: 517, 157
+  size: 90, 207
+  orig: 90, 207
+  offset: 0, 0
+  index: -1
+kiem_02
+  rotate: false
+  xy: 792, 154
+  size: 90, 207
+  orig: 90, 207
+  offset: 0, 0
+  index: -1
+kiem_04
+  rotate: false
+  xy: 2, 729
+  size: 128, 293
+  orig: 128, 293
+  offset: 0, 0
+  index: -1
+sip
+  rotate: false
+  xy: 517, 85
+  size: 90, 70
+  orig: 90, 70
+  offset: 0, 0
+  index: -1
+tay_phai
+  rotate: false
+  xy: 897, 805
+  size: 91, 89
+  orig: 91, 89
+  offset: 0, 0
+  index: -1
+tay_trai
+  rotate: true
+  xy: 2, 39
+  size: 77, 116
+  orig: 77, 116
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 897, 896
+  size: 125, 126
+  orig: 125, 126
+  offset: 0, 0
+  index: -1

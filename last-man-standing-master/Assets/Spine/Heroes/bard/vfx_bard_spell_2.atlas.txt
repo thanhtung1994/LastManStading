@@ -1,0 +1,55 @@
+
+vfx_bard_spell_2.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: true
+  xy: 2, 2
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+vfx_wild_1
+  rotate: false
+  xy: 2, 64
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+vfx_wild_2
+  rotate: false
+  xy: 52, 96
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+vfx_wild_3
+  rotate: false
+  xy: 2, 32
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+vfx_wild_4
+  rotate: false
+  xy: 52, 64
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+vfx_wild_5
+  rotate: false
+  xy: 52, 32
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+vfx_wild_6
+  rotate: false
+  xy: 2, 96
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1

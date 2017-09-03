@@ -1,0 +1,195 @@
+
+samurai_anim.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ban_tay_phai
+  rotate: true
+  xy: 88, 55
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+ban_tay_phai_01
+  rotate: true
+  xy: 88, 31
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+bap_tay_phai
+  rotate: false
+  xy: 385, 243
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+bap_tay_trai
+  rotate: true
+  xy: 401, 388
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+chan_phai
+  rotate: true
+  xy: 445, 399
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+chan_trai
+  rotate: true
+  xy: 125, 235
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+fx_crit_01
+  rotate: true
+  xy: 125, 265
+  size: 152, 51
+  orig: 152, 51
+  offset: 0, 0
+  index: -1
+fx_crit_02
+  rotate: false
+  xy: 248, 459
+  size: 152, 51
+  orig: 152, 51
+  offset: 0, 0
+  index: -1
+fx_crit_03
+  rotate: true
+  xy: 2, 79
+  size: 152, 51
+  orig: 152, 51
+  offset: 0, 0
+  index: -1
+fx_crit_04
+  rotate: true
+  xy: 55, 79
+  size: 152, 51
+  orig: 152, 51
+  offset: 0, 0
+  index: -1
+fx_crit_set_01
+  rotate: false
+  xy: 178, 324
+  size: 85, 93
+  orig: 85, 93
+  offset: 0, 0
+  index: -1
+fx_crit_set_02
+  rotate: true
+  xy: 402, 425
+  size: 85, 93
+  orig: 85, 93
+  offset: 0, 0
+  index: -1
+fx_crit_set_03
+  rotate: false
+  xy: 178, 229
+  size: 85, 93
+  orig: 85, 93
+  offset: 0, 0
+  index: -1
+fx_crit_set_04
+  rotate: false
+  xy: 265, 364
+  size: 85, 93
+  orig: 85, 93
+  offset: 0, 0
+  index: -1
+fx_crit_set_05
+  rotate: false
+  xy: 265, 269
+  size: 85, 93
+  orig: 85, 93
+  offset: 0, 0
+  index: -1
+fx_spell_kiem_01
+  rotate: false
+  xy: 2, 419
+  size: 121, 91
+  orig: 121, 91
+  offset: 0, 0
+  index: -1
+fx_spell_kiem_02
+  rotate: false
+  xy: 2, 326
+  size: 121, 91
+  orig: 121, 91
+  offset: 0, 0
+  index: -1
+fx_spell_kiem_03
+  rotate: false
+  xy: 125, 419
+  size: 121, 91
+  orig: 121, 91
+  offset: 0, 0
+  index: -1
+fx_spell_kiem_04
+  rotate: false
+  xy: 2, 233
+  size: 121, 91
+  orig: 121, 91
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 352, 388
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 352, 268
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+kiem
+  rotate: true
+  xy: 265, 197
+  size: 70, 84
+  orig: 70, 84
+  offset: 0, 0
+  index: -1
+kiem_01
+  rotate: true
+  xy: 2, 2
+  size: 75, 84
+  orig: 75, 84
+  offset: 0, 0
+  index: -1
+tay_phai
+  rotate: false
+  xy: 351, 215
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+tay_trai
+  rotate: false
+  xy: 351, 240
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 352, 320
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+torso_1
+  rotate: true
+  xy: 416, 324
+  size: 62, 21
+  orig: 62, 21
+  offset: 0, 0
+  index: -1
